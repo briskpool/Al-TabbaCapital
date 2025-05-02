@@ -132,6 +132,9 @@ $('#register-form').click(function() {
 
     $(".spinner-border").show();
 
+     // Log the reCAPTCHA response to the console
+     console.log('reCAPTCHA Response:', grecaptcha.getResponse());
+
     $.post("send_email.php", {
             form: "register",
             f_name: fname,
