@@ -64,11 +64,7 @@ $('#contact-form').click(function() {
             subject: subject,
             msg: message,
             g_recaptcha_response: grecaptcha.getResponse(),
-        },
-
-     
-    // Log the reCAPTCHA response to the console
-console.log('reCAPTCHA response:', grecaptcha.getResponse());   
+        }, 
 
         function(data, status) {
             console.log(data);
