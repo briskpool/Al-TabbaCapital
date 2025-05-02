@@ -31,7 +31,7 @@
 				<div class = "col-12">
 
                     <p>
-                        Thank you for choosing to be part of our community at IG Global, doing business as igi ("igi," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at <a href="mailto:info@igglobalandsavings.com">info@igglobalandsavings.com</a>.
+                        Thank you for choosing to be part of our community at Al-Tabbaa & Hackett Capital, doing business as igi ("igi," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at <a href="mailto:info@al-tabbaahackettcapital.com">info@al-tabbaahackettcapital.com</a>.
                     </p>
 
                     <p>
@@ -117,7 +117,7 @@
 
                     <ul>
                         <li><strong>To facilitate account creation and logon process.</strong> If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" for further information.</li>
-                        <li><strong>To post testimonials.</strong> We post testimonials on our Website that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at info@igglobalandsavings.com and be sure to include your name, testimonial location, and contact information.</li>
+                        <li><strong>To post testimonials.</strong> We post testimonials on our Website that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at info@al-tabbaahackettcapital.com and be sure to include your name, testimonial location, and contact information.</li>
                         <li><strong>Request feedback.</strong> We may use your information to request feedback and to contact you about your use of our Website.</li>
                         <li><strong>To enable user-to-user communications.</strong> We may use your information in order to enable user-to-user communications with each user's consent.</li>
                         <li><strong>To manage user accounts.</strong> We may use your information for the purposes of managing our account and keeping it in working order.</li>
@@ -191,7 +191,7 @@
                     </p>
 
                     <p>
-                        We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at info@igglobalandsavings.com.
+                        We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at info@al-tabbaahackettcapital.com.
                     </p>
 
                     <h3>8. WHAT ARE YOUR PRIVACY RIGHTS?</h3>
@@ -217,7 +217,7 @@
                     </p>
 
                     <p>
-                        If you have questions or comments about your privacy rights, you may email us at <a href="mailto:info@igglobalandsavings.com">info@igglobalandsavings.com</a>.
+                        If you have questions or comments about your privacy rights, you may email us at <a href="mailto:info@al-tabbaahackettcapital.com">info@al-tabbaahackettcapital.com</a>.
                     </p>
 
                     <h6>Account Information</h6>
@@ -381,7 +381,7 @@
                     </p>
 
                     <p>
-                        IG Global has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. IG Global will not sell personal information in the future belonging to website visitors, users and other consumers.
+                        Al-Tabbaa & Hackett Capital has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Al-Tabbaa & Hackett Capital will not sell personal information in the future belonging to website visitors, users and other consumers.
                     </p>
 
                     <h6>Your rights with respect to your personal data</h6>
@@ -463,9 +463,9 @@
                     <h3>12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</h3>
 
                     <p>
-                        If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Reece Atherton, by email at info@igglobalandsavings.com, by phone at 0800 7022 525, or by post to:
+                        If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Reece Atherton, by email at info@al-tabbaahackettcapital.com, by phone at 0800 7022 525, or by post to:
                         <br/><br/>
-                        IG Global & Savings
+                        Al-Tabbaa & Hackett Capital
                         
              <br/>
                         71-76 Shelton Street

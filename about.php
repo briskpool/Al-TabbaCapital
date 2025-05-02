@@ -18,7 +18,7 @@
 			<div class = "banner-content">
 				<div class = "row">
 					<div class = "col-12">
-						<h1>About <span>Al-Tabbaa & Hackett</span></h1>
+						<h1>About <span>Al-Tabbaa & Hackett Capital</span></h1>
 						<p>A little bit about who we are and how we can help you.</p>
 					</div>
 				</div>

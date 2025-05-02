@@ -33,7 +33,7 @@
                     <h3>1. AGREEMENT TO TERMS</h3>
                     <p>
 
-                        These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and IG Global & Savings, doing business as igi ("igi," “we," “us," or “our”), concerning your access to and use of the <a href = "https://igglobalandsavings.com/">https://igglobalandsavings.com</a> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+                        These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Al Tabbaa & Hackett Capital, doing business as igi ("igi," “we," “us," or “our”), concerning your access to and use of the <a href = "https://igglobalandsavings.com/">https://igglobalandsavings.com</a> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
                     </p>
 
@@ -198,7 +198,7 @@
                     <h3>13. GOVERNING LAW </h3>
 
                     <p>
-                        These Terms shall be governed by and defined following the laws of __________. IG Global Ltd and yourself irrevocably consent that the courts of __________ shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
+                        These Terms shall be governed by and defined following the laws of __________. Al Tabbaa & Hackett Capital Ltd and yourself irrevocably consent that the courts of __________ shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
                     </p>
 
                     <h3>14. DISPUTE RESOLUTION</h3>

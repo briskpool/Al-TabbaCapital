@@ -25,7 +25,7 @@
                     <div class="banner-content">
                         <h1>Make Your <span>Money</span> Work For You</h1>
                         <p>
-                            Looking to move your ISA or expand your portfolio? Al-Tabbaa & Hackett makes investing and
+                            Looking to move your ISA or expand your portfolio? Al-Tabbaa & Hackett Capital makes investing and
                             account management easy with expert support and online tools.
                         </p>
                         <!-- <a href = "register.php" class = "btn btn-primary-red">
@@ -60,7 +60,7 @@
                         Explore the diverse world of investment opportunities with our cutting-edge software. Harnessing
                         the power of the latest technology, our platform tailors your investment strategy to match your
                         desired returns and risk tolerance. Elevate your financial journey by choosing a solution
-                        designed to optimize your investment outcomes at Al-Tabbaa & Hackett.
+                        designed to optimize your investment outcomes at Al-Tabbaa & Hackett Capital.
                     </p>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                             <img class="w-100" src="images/content-img/Maskgroup.jpeg" alt="img" />
                         </p>
                         <p>
-                            At Al-Tabbaa & Hackett we want to make investing easy and profitable for our clients. We
+                            At Al-Tabbaa & Hackett Capital we want to make investing easy and profitable for our clients. We
                             offer a range of investment options so that you can find the right one for you.
                         </p>
                         <a href="register.php" class="btn btn-primary-red">
@@ -146,7 +146,7 @@
                 <div class="col-12 mb-3 mb-lg-5 text-center">
                     <h2>Saving Made Easy</h2>
                     <p>
-                        Investing can seem complicated and overwhelming, but at Al-Tabbaa & Hackett, we believe it
+                        Investing can seem complicated and overwhelming, but at Al-Tabbaa & Hackett Capital, we believe it
                         should be easy and straightforward. That's why we've created a three step process for our
                         Instant Access Fund to make it simple for you to get saving.
                     </p>
@@ -197,7 +197,7 @@
                 <div class="col-lg-10 col-xxl-9 text-center">
                     <h2>FAQs</h2>
                     <p>
-                        Find answers to some of the most commonly asked questions about Al-Tabbaa & Hackett. If you
+                        Find answers to some of the most commonly asked questions about Al-Tabbaa & Hackett Capital. If you
                         can't find what you are looking for, please do not hesitate to get in touch with our team. We
                         will be happy to help you.
                     </p>
@@ -213,7 +213,7 @@
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body text-start">
-                                        There is no risk involved in the Instant Access Fund as Al-Tabbaa & Hackett protect the
+                                        There is no risk involved in the Instant Access Fund as Al-Tabbaa & Hackett Capital protect the
                                         capital for their investors.<br><br>
                                         The Mini Bond Trader and Professional Fund accounts both carry a risk of just
                                         2.5% profile as you would expect from an investment returning 2% to 4% per
@@ -417,7 +417,7 @@
         <div class="container mt-3 mb-5">
             <div class="row justify-content-center">
                 <div class="col-12 mb-3">
-                    <h2 class="text-center">Al-Tabbaa & Hackett is Featured In</h2>
+                    <h2 class="text-center">Al-Tabbaa & Hackett Capital is Featured In</h2>
                 </div>
 
                 <div class="col-12 col-md-12 col-lg-8 text-center mb-4">

@@ -165,7 +165,7 @@ section.footer li {
             <div class="row pt-3">
                 <div class="col-12">
                     <p>
-                        Al-Tabbaa & Hackett is a trading style which is registered in England & Wales.
+                        Al-Tabbaa & Hackett Capital is a trading style which is registered in England & Wales.
                     </p>
 
                     <p>
@@ -184,7 +184,7 @@ section.footer li {
                     </p>
 
                     <p>
-                        Al-Tabbaa & Hackett is not authorised and regulated by the FCA and we do not give investment
+                        Al-Tabbaa & Hackett Capital is not authorised and regulated by the FCA and we do not give investment
                         advice, you should contact a regulated investment professional if you require investment advice.
                     </p>
 
@@ -220,7 +220,7 @@ section.footer li {
                     <!-- End TrustBox widget -->
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
-                    Copyright © Al-Tabbaa & Hackett <?php echo date('Y'); ?>.
+                    Copyright © Al-Tabbaa & Hackett Capital <?php echo date('Y'); ?>.
                 </div>
             </div>
         </div>

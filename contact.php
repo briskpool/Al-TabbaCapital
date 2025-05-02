@@ -41,7 +41,7 @@
                             </div>
                             <div class="detail">
                                 <p><strong>Write to us</strong></p>
-                                <p><a href="mailto:info@igglobalandsavings.com">info@igglobalandsavings.com</a></p>
+                                <p><a href="mailto:info@al-tabbaahackettcapital.com">info@al-tabbaahackettcapital.com</a></p>
                             </div>
                         </div>
                     </div>

@@ -4,23 +4,23 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Al-Tabbaa & Hackett</title>
+    <title>Al-Tabbaa & Hackett Capital</title>
     <meta name="description"
-        content="Make Your Savings Work For You. There are many ways to invest your money, and at Al-Tabbaa & Hackett we offer a wide range of options to suit your needs.">
+        content="Make Your Savings Work For You. There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs.">
     <meta name="keywords"
-        content="Savings, Investment, IG, Al-Tabbaa & Hackett, Ways To Invest, Instant Access Fund, Mini Bond Trader, Professional Fund, ">
+        content="Savings, Investment, IG, Al-Tabbaa & Hackett Capital, Ways To Invest, Instant Access Fund, Mini Bond Trader, Professional Fund, ">
     <meta name="author" content="IG Global and Savings">
     <!--  Essential META Tags -->
     <meta property="og:title" content="IG Global and Savings">
     <meta property="og:type"
-        content="There are many ways to invest your money, and at Al-Tabbaa & Hackett we offer a wide range of options to suit your needs." />
+        content="There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs." />
     <meta property="og:image" content="https://igglobalsavings.com/images/IG-Global.png">
     <meta property="og:url" content="https://igglobalsavings.com/index.php">
     <meta name="twitter:card" content="summary_large_image">
 
     <!--  Non-Essential, But Recommended -->
     <meta property="og:description"
-        content="There are many ways to invest your money, and at Al-Tabbaa & Hackett we offer a wide range of options to suit your needs.">
+        content="There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs.">
     <meta property="og:site_name" content="IG Global Limited.">
     <meta name="twitter:image:alt" content="IG Global Limited.">
 
