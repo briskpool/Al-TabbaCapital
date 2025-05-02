@@ -142,26 +142,6 @@ section.footer li {
     </div>
     <div class="footer-center">
         <div class="container ">
-            <div class="row download-app">
-                <div class="col-12">
-                    <h4 class="py-3 d-flex justify-content-center">
-                        Mobile Applications
-                    </h4>
-                </div>
-                <div class="col-12 list-img">
-                    <a href="https://play.google.com/store/apps/details?id=com.app.igglobalandsavings&pli=1"
-                        target="_blank">
-                        <li class="pb-2">
-                            <img src="images/icons/playstore.svg" style="height:60px">
-                        </li>
-                    </a>
-                    <a href="https://apps.apple.com/pk/app/ig-global-and-savings/id6458223535" target="_blank">
-                        <li class="ps-2 pb-5 ">
-                            <img src="images/icons/appstore.svg" style="height:60px">
-                        </li>
-                    </a>
-                </div>
-            </div>
             <div class="row pt-3">
                 <div class="col-12">
                     <p>

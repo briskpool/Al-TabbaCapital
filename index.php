@@ -31,17 +31,6 @@
                         <a href = "register.php" class = "btn btn-primary-red">
 							Lets find whats right for you
 						</a>
-                        <!-- <div class="col-12 d-flex">
-                            <a href="https://play.google.com/store/apps/details?id=com.app.igglobalandsavings&pli=1"
-                                target="_blank" class="text-decoration-none">
-                                <img src="images/icons/playstore.svg" style="height:60px; width:100%;">
-                            </a>
-
-                            <a href="https://apps.apple.com/pk/app/ig-global-and-savings/id6458223535" target="_blank"
-                                class="ps-2 text-decoration-none">
-                                <img src="images/icons/appstore.svg" style="height:60px; width:100%;">
-                            </a>
-                        </div> -->
                     </div>
                     <div class="banner-img">
                         <img src="images/backgrounds/banner-img.png" alt="img" />
