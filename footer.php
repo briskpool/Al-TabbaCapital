@@ -39,27 +39,27 @@ section.footer li {
                 <div class="col-lg-4 d-md-none">
                     <ul class="nav social-nav">
                         <li class="nav-item">
-                            <a href="https://rumble.com/v2fzg18-ig-global-and-savings.html" target="_blank">
+                            <a href="#" target="_blank">
                                 <img src="images/icons/Layer.svg" alt="layers" />
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://twitter.com/IGGlobalSavings" target="_blank">
+                            <a href="#" target="_blank">
                                 <i class="bi bi-twitter-x"></i>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.linkedin.com/company/ig-global-savings/" target="_blank">
+                            <a href="#" target="_blank">
                                 <i class="bi bi-linkedin"></i>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.instagram.com/igglobalsavings/" target="_blank">
+                            <a href="#" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.facebook.com/people/IG-Global-Savings/100093290560064/"
+                            <a href="#"
                                 target="_blank">
                                 <i class="bi bi-facebook"></i>
                             </a>
@@ -98,27 +98,27 @@ section.footer li {
                 <div class="col-lg-4 d-none d-md-block">
                     <ul class="nav social-nav">
                         <li class="nav-item">
-                            <a href="https://rumble.com/v2fzg18-ig-global-and-savings.html" target="_blank">
+                            <a href="#" target="_blank">
                                 <img src="images/icons/Layer.svg" alt="layers" />
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://twitter.com/IGGlobalSavings" target="_blank">
+                            <a href="#" target="_blank">
                                 <i class="bi bi-twitter-x"></i>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.linkedin.com/company/ig-global-savings/" target="_blank">
+                            <a href="#" target="_blank">
                                 <i class="bi bi-linkedin"></i>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.instagram.com/igglobalsavings/" target="_blank">
+                            <a href="#" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://www.facebook.com/people/IG-Global-Savings/100093290560064/"
+                            <a href="#"
                                 target="_blank">
                                 <i class="bi bi-facebook"></i>
                             </a>
@@ -191,12 +191,12 @@ section.footer li {
                 </div>
                 <div class="col-md-4 text-center mb-3 mb-md-0 d-none d-lg-block">
                     <!-- TrustBox widget - Micro Review Count -->
-                    <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad"
+                    <!-- <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad"
                         data-businessunit-id="64067ecdbbc40d2fadc8f8b3" data-style-height="24px" data-style-width="100%"
                         data-theme="dark" data-min-review-count="10" data-style-alignment="center">
                         <a href="https://www.trustpilot.com/review/igglobalandsavings.com" target="_blank"
                             rel="noopener">Trustpilot</a>
-                    </div>
+                    </div> -->
                     <!-- End TrustBox widget -->
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
