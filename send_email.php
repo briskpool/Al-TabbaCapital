@@ -9,12 +9,12 @@ $mail_host="localhost";
 // $mail_pass="***";
 $from_name="Al-Tabbaa & Hackett Capital";
 $from_email="info@al-tabbaahackettcapital.com";
-$to_email="igglobalsavings@protonmail.com";
-// $to_email="muzammil.mykhan@gmail.com";
+//$to_email="igglobalsavings@protonmail.com";
+$to_email="muzammil.mykhan@gmail.com";
 
 
 if (!empty($_POST['g_recaptcha_response'])) {
-  $secret = '6LfMHS8gAAAAAIHwkL8JivMNjYPx347WZpLE5oIV';
+  $secret = '6LePPCwrAAAAAId8XWKStWyhcjosC6BEo7UUBhYv';
   
   $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $_POST['g_recaptcha_response']);
   $responseData = json_decode($verifyResponse);
