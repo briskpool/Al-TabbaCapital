@@ -55,8 +55,6 @@ $('#contact-form').click(function() {
 
     // $(".spinner-border").addClass('show');
     $(".spinner-border").show();
-    // Log the reCAPTCHA response to the console
-console.log('reCAPTCHA response:', grecaptcha.getResponse());
 
     $.post("send_email.php", {
             form: "contact",
@@ -67,6 +65,10 @@ console.log('reCAPTCHA response:', grecaptcha.getResponse());
             msg: message,
             g_recaptcha_response: grecaptcha.getResponse(),
         },
+
+     
+    // Log the reCAPTCHA response to the console
+console.log('reCAPTCHA response:', grecaptcha.getResponse());   
 
         function(data, status) {
             console.log(data);
