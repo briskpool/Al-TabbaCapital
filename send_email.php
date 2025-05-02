@@ -14,7 +14,7 @@ $to_email="muzammil.mykhan@gmail.com";
 
 
 if (!empty($_POST['g_recaptcha_response'])) {
-  $secret = '6LePPCwrAAAAAId8XWKStWyhcjosC6BEo7UUBhYv';
+  $secret = '6LfMHS8gAAAAAL0xAaVP8BXsR8IoFci996bBfUrF';
   
   $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $_POST['g_recaptcha_response']);
   $responseData = json_decode($verifyResponse);
