@@ -67,7 +67,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <div class="box-details">
-                                        <h3>Instant Access Fund</h3>
+                                        <h3>Easy Access</h3>
                                         <p>If your savings are not meeting your needs, we offer a guaranteed 2% return
                                             per month.</p>
                                     </div>
@@ -81,7 +81,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <div class="box-details">
-                                        <h3>Mini Bond Trader</h3>
+                                        <h3>Guaranteed Growth</h3>
                                         <p>For the startup trader we offer a trade platform that enables you to manage
                                             your own brokerage account.</p>
                                     </div>
@@ -95,7 +95,7 @@
                                 </li>
                                 <li class="nav-item">
                                     <div class="box-details">
-                                        <h3>Professional Fund</h3>
+                                        <h3>Guaranteed Income</h3>
                                         <p>For those lucky enough to have a large investment portfolio we offer great
                                             returns without limitation.</p>
                                     </div>
@@ -295,9 +295,9 @@
                         <thead>
                             <tr>
                                 <th scope="col"></th>
-                                <th scope="col">Instant Access</th>
-                                <th scope="col">Mini Bond Trader</th>
-                                <th scope="col">Professional Fund</th>
+                                <th scope="col">Easy Access</th>
+                                <th scope="col">Guaranteed Growth</th>
+                                <th scope="col">Guaranteed Income</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -378,7 +378,7 @@
                             <tr>
                                 <td>Minimum Investment</td>
                                 <td>
-                                    £10.00
+                                    £250.00
                                 </td>
                                 <td>
                                     £5,000.00
