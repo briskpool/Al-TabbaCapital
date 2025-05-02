@@ -139,6 +139,7 @@ $('#register-form').click(function() {
             phone: phone,
             g_recaptcha_response: grecaptcha.getResponse(),
         },
+        console.log(''),
 
         function(data, status) {
             if (data == 'success') {
