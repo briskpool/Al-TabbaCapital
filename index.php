@@ -394,7 +394,7 @@
 
             <div class="row mt-4 mt-lg-5">
                 <div class="col-12 text-center">
-                    <a href="register.php" class="btn btn-secondary-navy">Register</a>
+                    <a href="register.php" class="btn btn-secondary-navy">Register Account</a>
                 </div>
             </div>
 
@@ -402,7 +402,7 @@
 
     </section>
 
-    <section>
+    <!-- <section>
         <div class="container mt-3 mb-5">
             <div class="row justify-content-center">
                 <div class="col-12 mb-3">
@@ -420,7 +420,7 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="join-us">
         <div class="container">
