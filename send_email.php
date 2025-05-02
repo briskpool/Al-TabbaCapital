@@ -5,10 +5,10 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 $mail_host="localhost";
-// $user_name="info@igglobalandsavings.com";
+// $user_name="info@al-tabbaahackettcapital.com";
 // $mail_pass="***";
-$from_name="IG Global";
-$from_email="info@igglobalandsavings.com";
+$from_name="Al-Tabbaa & Hackett Capital";
+$from_email="info@al-tabbaahackettcapital.com";
 $to_email="igglobalsavings@protonmail.com";
 // $to_email="muzammil.mykhan@gmail.com";
 

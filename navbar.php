@@ -31,7 +31,7 @@
           <a class="nav-link <?php if($currentPage =='register'){echo 'active';}?>" href="register.php">Register</a>
         </li>
       </ul>
-	  <a href = "https://portal.igglobalsavings.com" class = "btn btn-primary-red">
+	  <a href = "" class = "btn btn-primary-red">
 		<!-- <img class = "me-2" src = "images/icons/user.svg" alt = 'icon'/> -->Client Portal 
 	  </a>
     </div>

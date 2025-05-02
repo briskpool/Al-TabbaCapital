@@ -39,7 +39,7 @@
                     </p>
 
                     <ul>
-                        <li>Visit our website at <a href="https://igglobalandsavings.com">https:igglobalandsavings.com</a></li>
+                        <li>Visit our website at <a href="https://al-tabbaahackettcapital.com">https://al-tabbaahackettcapital.com</a></li>
                         <li>Engage with us in other related ways ― including any sales, marketing, or events
                             In this privacy notice, if we refer to:</li>
                         <li>
@@ -201,7 +201,7 @@
                     </p>
 
                     <p>
-                        In some regions (like the EEA and UK), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the <a href="https://igglobalandsavings.com/contact.php" target="_blank">contact details</a> provided below. We will consider and act upon any request in accordance with applicable data protection laws.
+                        In some regions (like the EEA and UK), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the <a href="https://al-tabbaahackettcapital.com/contact.php" target="_blank">contact details</a> provided below. We will consider and act upon any request in accordance with applicable data protection laws.
                     </p>
 
                     <p>
@@ -363,7 +363,7 @@
                     </p>
 
                     <p>
-                        You may contact us by visiting <a href="https://igglobalandsavings.com/contact.php">https://igglobalandsavings.com/contact</a>, or by referring to the contact details at the bottom of this document.
+                        You may contact us by visiting <a href="https://al-tabbaahackettcapital.com/contact.php">https://al-tabbaahackettcapital.com</a>, or by referring to the contact details at the bottom of this document.
                     </p>
 
                     <p>
@@ -446,7 +446,7 @@
                     </ul>
 
                     <p>
-                        To exercise these rights, you can contact us by visiting <a href="https://igglobalandsavings.com/contact.php">https://igglobalandsavings.com/contact</a>, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+                        To exercise these rights, you can contact us by visiting <a href="https://al-tabbaahackettcapital.com/contact.php">https://al-tabbaahackettcapital.com</a>, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
                     </p>
 
 
@@ -477,7 +477,7 @@
                     <h3>13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</h3>
 
                     <p>
-                        Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking <a href="https://igglobalandsavings.com/contact.php">here</a>.
+                        Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking <a href="https://al-tabbaahackettcapital.com/contact.php">here</a>.
                     </p>
 
                 </div>
