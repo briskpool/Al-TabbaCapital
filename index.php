@@ -43,7 +43,7 @@
     <section class="content-section" id="whyInvest">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-xl-10">
+                <div class="col-12 col-xl-12">
                     <h2>Ways To Invest</h2>
                     <p>
                         Explore the diverse world of investment opportunities with our cutting-edge software. Harnessing
@@ -53,12 +53,9 @@
                     </p>
                 </div>
             </div>
-            <div class="row align-items-center wf-row">
-                <div class="col-md-5 text-center">
-                    <!-- <img class="w-100" src="images/content-img/red-boy.png" alt="boy" /> -->
-                    <?php include 'indices.php'; ?>
-                </div>
-                <div class="col-md-7 col-xxl-6 offset-xxl-1">
+            <div class="row align-items-center wf-row justify-content-between">
+                
+                <div class="col-md-7 col-xxl-6">
                     <div class="ways-features">
                         <div class="ways-box">
                             <ul class="nav align-items-center">
@@ -103,6 +100,10 @@
                             </ul>
                         </div>
                     </div>
+                </div>
+                <div class="col-md-5 text-center">
+                    <!-- <img class="w-100" src="images/content-img/red-boy.png" alt="boy" /> -->
+                    <?php include 'indices.php'; ?>
                 </div>
             </div>
             <div class="row invest-conten justify-content-center">
