@@ -63,7 +63,7 @@
 
                             </div>
                             <div class="form-group">
-                                <a href="#!" id="register-form" class="btn btn-primary-red w-100">
+                                <a href="#!" id="register-form" class="btn btn-secondary-navy w-100">
                                     Register
                                     <span class="spinner-border spinner-border-sm ms-2"></span>
                                 </a>

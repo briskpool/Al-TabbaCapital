@@ -28,7 +28,7 @@
                             Looking to move your ISA or expand your portfolio? Al-Tabbaa & Hackett Capital makes investing and
                             account management easy with expert support and online tools.
                         </p>
-                        <a href = "register.php" class = "btn btn-primary-red">
+                        <a href = "register.php" class = "btn btn-secondary-navy">
 							Lets find whats right for you
 						</a>
                     </div>
@@ -432,7 +432,7 @@
                         If you’re ready to go ahead and start investing, all you need to do is register and a member of
                         the team will get your account opened so you can deposit your savings.
                     </p>
-                    <a href="register.php" class="btn btn-primary-red">Get Started</a>
+                    <a href="register.php" class="btn btn-secondary-navy">Get Started</a>
                 </div>
             </div>
         </div>

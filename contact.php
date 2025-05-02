@@ -118,7 +118,7 @@
 
                             </div>
                             <div class="form-group">
-                                <a href="#!" id="contact-form" class="btn btn-primary-red w-100">
+                                <a href="#!" id="contact-form" class="btn btn-secondary-navy w-100">
                                     Send Message
                                     <span class="spinner-border spinner-border-sm ms-2"></span>
                                 </a>

@@ -78,7 +78,7 @@ p {
 
 
 .btn {
-	padding: 8px 14px;
+	padding: 4px 18px;
 	letter-spacing: 0.01em;
 	color: #1A1A1A;
 	line-height: 38px;
@@ -109,7 +109,7 @@ p {
 
 .btn-secondary-navy:hover, :not(.btn-check)+.btn:active {
 	background: var(--secondary);
-    border-color: var(var(--secondary));
+    border-color: var(--secondary);
 }
 
 input.form-control {
@@ -119,11 +119,10 @@ input.form-control {
 	height: 70px;
 	line-height: 70px;
 	color: var(--secondary);
-	font-weight: 600;
+	font-weight: 500;
 	font-size: 20px;
 	font-family: 'Roboto', sans-serif;
 	margin-bottom: 20px;
-	padding: 22px 24px;
 }
 
 textarea.form-control {
@@ -132,11 +131,10 @@ textarea.form-control {
 	border: 1px solid #9E9ED6;
 	height: auto !important;
 	color: var(--secondary);
-	font-weight: 600;
+	font-weight: 500;
 	font-size: 20px;
 	font-family: 'Roboto', sans-serif;
 	margin-bottom: 20px;
-	padding: 22px 24px;
 }
 
 input.form-control::placeholder, 
@@ -739,11 +737,12 @@ section.register-user .register-form .form-group p a {
 	font-size: 16px !important;
 	opacity: 1 !important;
 	font-family: 'Roboto', sans serif;
-	font-weight: 600;
+	font-weight: 500;
+	color: #818181;
 }
 
 .register-form form .form-control:focus + label {
-	color: var(--primary-red);
+	color: #818181;
 }
 
 .footer {
