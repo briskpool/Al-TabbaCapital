@@ -18,8 +18,7 @@
 			<div class = "banner-content">
 				<div class = "row">
 					<div class = "col-12">
-						<h1>About <span>Al-Tabbaa & Hackett Capital</span></h1>
-						<p>A little bit about who we are and how we can help you.</p>
+						<h1>Al-Tabbaa & Hackett Capital</span></h1>
 					</div>
 				</div>
 			</div>
@@ -152,7 +151,7 @@
 					<p>
 						If you're ready to go ahead and start investing, all you need to do is create yourself an account and deposit your savings.
 					</p>
-					<a href = "register.php" class = "btn btn-primary-red">Get Started</a>
+					<a href = "register.php" class = "btn btn-secondary-navy">Get Started</a>
 				</div>
 			</div>
 		</div>

@@ -670,12 +670,11 @@ section.fund-compare .table tr:last-child td {
 }
 
 .about-banner h1, .about-banner p {
-	color: #fff;
+	color: var(--primary-red);
 }
 
 .about-banner h1 {
 	margin-bottom: 37px;
-	text-transform: uppercase;
 }
 
 .about-banner h1 span {
@@ -785,8 +784,8 @@ section.register-user .register-form .form-group p a {
 }
 
 .footer .footer-center {
-	border-top: 1px solid #3C3C64;
-	border-bottom: 1px solid #3C3C64;
+	border-top: 1px solid #ffaf322b;
+	border-bottom: 1px solid #ffaf322b;
 	padding: 25px 0px;
 }
 

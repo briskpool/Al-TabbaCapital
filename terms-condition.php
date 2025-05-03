@@ -18,7 +18,7 @@
 			<div class = "banner-content">
 				<div class = "row">
 					<div class = "col-12">
-						<h1>TERMS AND CONDITIONS</h1>
+						<h1>Terms and Conditions</h1>
 					</div>
 				</div>
 			</div>

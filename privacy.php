@@ -18,7 +18,7 @@
 			<div class = "banner-content">
 				<div class = "row">
 					<div class = "col-12">
-						<h1>PRIVACY POLICY</h1>
+						<h1>Privacy Policy</h1>
 					</div>
 				</div>
 			</div>
