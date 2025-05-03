@@ -244,7 +244,7 @@
                                     <div class="accordion-body text-start">
                                         Our Easy Access accounts are flexible which means you can deposit and
                                         withdraw all, or a portion of your capital at any time.<br><br>
-                                        The Guaranteed Income Fund/Bespoke Trading is a minimum fixed term of 18-36 months
+                                        The Guaranteed Growth/Guaranteed Income is a minimum fixed term of 18-36 months
                                         and does not carry flexibility on withdrawal due to the returns on offer at Al-Tabbaa & Hackett Capital.
                                     </div>
                                 </div>
@@ -451,8 +451,8 @@
             assets invested” (Article 48(5) and Article 50A(5)). FCA regulatory framework provides strict guidelines we
             must adhere to. Under FCA rules, this investment cannot be promoted to retail investors and must only be
             offered to qualifying high net worth and sophisticated investors, as detailed below. The information on this
-            site may contain investments which are difficult to price and don’t have a secondary market. This also means
-            they’re only suitable for certain types of investor:
+            site may contain investments which are difficult to price and don't have a secondary market. This also means
+            they're only suitable for certain types of investor:
             <br /><br />
             <b>Self-Certified High Net Worth Investor</b><br />
             An individual who has signed, within twelve months ending with the day on which communication is made, a
