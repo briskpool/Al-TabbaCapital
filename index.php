@@ -23,7 +23,7 @@
                 </div>
                 <div class="col-12">
                     <div class="banner-content">
-                        <h1>Make Your <span>Money</span> Work For You</h1>
+                        <h1>Make Your <span>Money</span> Work For You!</h1>
                         <p>
                             Looking to move your ISA or expand your portfolio? Al-Tabbaa & Hackett Capital makes investing and
                             account management easy with expert support and online tools.
