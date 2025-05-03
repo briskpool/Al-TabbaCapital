@@ -138,7 +138,7 @@
                     <p>
                         Investing can seem complicated and overwhelming, but at Al-Tabbaa & Hackett Capital, we believe it
                         should be easy and straightforward. That's why we've created a three step process for our
-                        Instant Access Fund to make it simple for you to get saving.
+                        Easy Access Fund to make it simple for you to get saving.
                     </p>
                 </div>
                 <div class="col-md-4">
@@ -203,9 +203,9 @@
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body text-start">
-                                        There is no risk involved in the Instant Access Fund as Al-Tabbaa & Hackett Capital protect the
+                                        There is no risk involved in the Easy Access Fund as Al-Tabbaa & Hackett Capital protect the
                                         capital for their investors.<br><br>
-                                        The Mini Bond Trader and Professional Fund accounts both carry a risk of just
+                                        The Guaranteed Growth and Guaranteed Income Fund accounts both carry a risk of just
                                         2.5% profile as you would expect from an investment returning 2% to 4% per
                                         month.
                                     </div>
@@ -221,12 +221,12 @@
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body text-start">
-                                        You can fund your Instant Access account in the following ways:
+                                        You can fund your Easy Access account in the following ways:
                                         <ul class="mt-3">
                                             <li>Bank Transfer</li>
                                             <li>Direct Debit</li>
                                         </ul>
-                                        The Mini Bond Trader and Professional Fund support all the above methods and
+                                        The Guaranteed Growth and Guaranteed Income Fund support all the above methods and
                                         also allow direct deposits from multiple cryptocurrencies.
                                     </div>
                                 </div>
@@ -242,11 +242,10 @@
                                 <div id="collapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body text-start">
-                                        Our Instant Access accounts are flexible which means you can deposit and
+                                        Our Easy Access accounts are flexible which means you can deposit and
                                         withdraw all, or a portion of your capital at any time.<br><br>
-                                        The Professional Fund/Bespoke Trading is a minimum fixed term of 18-36 months
-                                        and does not carry flexibility on withdrawal due to the returns on offer at IG
-                                        Global & Savings.
+                                        The Guaranteed Income Fund/Bespoke Trading is a minimum fixed term of 18-36 months
+                                        and does not carry flexibility on withdrawal due to the returns on offer at Al-Tabbaa & Hackett Capital.
                                     </div>
                                 </div>
                             </div>
@@ -261,8 +260,8 @@
                                 <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body text-start">
-                                        Our Instant Access Fund will allow you to split your savings into multiple
-                                        ‘pots’. This means you can have an account for yourself, an account for your
+                                        Our Easy Access Fund will allow you to split your savings into multiple
+                                        'pots'. This means you can have an account for yourself, an account for your
                                         child, a general savings account, or whatever label you wish to put on it.
                                     </div>
                                 </div>
@@ -370,7 +369,7 @@
                                     2% Guaranteed
                                 </td>
                                 <td>
-                                    2% - 6% *
+                                    6%
                                 </td>
                                 <td>
                                     6%+
