@@ -59,7 +59,7 @@ section.footer li {
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="#"
+                            <a href="https://www.facebook.com/profile.php?id=61575792995939&mibextid=wwXIfr&rdid=8uBKJpb7780aIMXf&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Ctf1Nob8y%2F%3Fmibextid%3DwwXIfr#"
                                 target="_blank">
                                 <i class="bi bi-facebook"></i>
                             </a>
@@ -118,7 +118,7 @@ section.footer li {
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="#"
+                            <a href="https://www.facebook.com/profile.php?id=61575792995939&mibextid=wwXIfr&rdid=8uBKJpb7780aIMXf&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Ctf1Nob8y%2F%3Fmibextid%3DwwXIfr#"
                                 target="_blank">
                                 <i class="bi bi-facebook"></i>
                             </a>
