@@ -54,7 +54,7 @@
                                         <p style="font-size:15px; color:#455056; margin:8px 0 0; line-height:24px;">
                                             Received from Contact Form</p>
                                         <span
-                                            style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #ee3e38; width:100px;"></span>
+                                            style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #ffaf32; width:100px;"></span>
                                         <p
                                             style="color:#455056; font-size:18px;line-height:20px; margin:0; font-weight: 500; text-align:left;">
                                             <strong
@@ -81,7 +81,7 @@
                         <td style="text-align:center;">
                             <p
                                 style="font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:0 0 0;">
-                                &copy; <strong>www.al-tabbaahackettcapital.com/</strong> </p>
+                                &copy; <strong>www.al-tabbaahackettcapital.com</strong> </p>
                         </td>
                     </tr>
                     <tr>
