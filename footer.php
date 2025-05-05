@@ -38,7 +38,7 @@ section.footer li {
 
                 <div class="col-lg-4 d-md-none">
                     <ul class="nav social-nav">
-                        <li class="nav-item">
+<!--                         <li class="nav-item">
                             <a href="#" target="_blank">
                                 <img src="images/icons/Layer.svg" alt="layers" />
                             </a>
@@ -57,7 +57,7 @@ section.footer li {
                             <a href="#" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a href="https://www.facebook.com/profile.php?id=61575792995939&mibextid=wwXIfr&rdid=8uBKJpb7780aIMXf&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Ctf1Nob8y%2F%3Fmibextid%3DwwXIfr#"
                                 target="_blank">
@@ -97,7 +97,7 @@ section.footer li {
 
                 <div class="col-lg-4 d-none d-md-block">
                     <ul class="nav social-nav">
-                        <li class="nav-item">
+<!--                         <li class="nav-item">
                             <a href="#" target="_blank">
                                 <img src="images/icons/Layer.svg" alt="layers" />
                             </a>
@@ -116,7 +116,7 @@ section.footer li {
                             <a href="#" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a href="https://www.facebook.com/profile.php?id=61575792995939&mibextid=wwXIfr&rdid=8uBKJpb7780aIMXf&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Ctf1Nob8y%2F%3Fmibextid%3DwwXIfr#"
                                 target="_blank">
