@@ -3,7 +3,7 @@
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <title>IG GLobal</title>
+    <title>Contact</title>
     <meta name="description" content="New Account Email Template.">
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&amp;family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,800&amp;display=swap" rel="stylesheet">
     <style type="text/css">
@@ -11,7 +11,7 @@
         text-decoration: none !important;
     }
     a:link{
-        color:#ed3d39;
+        color:#ffaf32;
     }
     </style>
 </head>
@@ -29,8 +29,8 @@
                     </tr>
                     <tr>
                         <td style="text-align:center;">
-                            <a href="http://igglobalandsavings.com" title="logo" target="_blank">
-                                <img width="40" src="http://igglobalandsavings.com/templates/email-logo.png" title="logo"
+                            <a href="https://al-tabbaahackettcapital.com/" title="logo" target="_blank">
+                                <img width="40" src="https://al-tabbaahackettcapital.com//templates/email-logo.png" title="logo"
                                     alt="logo">
                             </a>
                         </td>
@@ -48,7 +48,7 @@
                                 <tr>
                                     <td style="padding:0 35px;">
                                         <h1
-                                            style="color:#ee3e38; font-weight:500; margin:0;font-size:26px;font-family:'Rubik',sans-serif;">
+                                            style="color:#1a1a1a; font-weight:500; margin:0;font-size:26px;font-family:'Rubik',sans-serif;">
                                             * New Message
                                         </h1>
                                         <p style="font-size:15px; color:#455056; margin:8px 0 0; line-height:24px;">
@@ -81,7 +81,7 @@
                         <td style="text-align:center;">
                             <p
                                 style="font-size:14px; color:rgba(69, 80, 86, 0.7411764705882353); line-height:18px; margin:0 0 0;">
-                                &copy; <strong>www.igglobalandsavings.com</strong> </p>
+                                &copy; <strong>www.al-tabbaahackettcapital.com/</strong> </p>
                         </td>
                     </tr>
                     <tr>
