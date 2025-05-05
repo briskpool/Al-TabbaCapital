@@ -8,10 +8,10 @@
     <meta name="description"
         content="Make Your Savings Work For You. There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs.">
     <meta name="keywords"
-        content="Savings, Investment, IG, Al-Tabbaa & Hackett Capital, Ways To Invest, Instant Access Fund, Mini Bond Trader, Professional Fund, ">
-    <meta name="author" content="IG Global and Savings">
+        content="Savings, Investment, Al-Tabbaa and Hackett Capital, Ways To Invest, Instant Access Fund, Mini Bond Trader, Professional Fund, ">
+    <meta name="author" content="Al-Tabbaa & Hackett Capital">
     <!--  Essential META Tags -->
-    <meta property="og:title" content="IG Global and Savings">
+    <meta property="og:title" content="Al-Tabbaa & Hackett Capital">
     <meta property="og:type"
         content="There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs." />
     <meta property="og:image" content="https://igglobalsavings.com/images/IG-Global.png">
