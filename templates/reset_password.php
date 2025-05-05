@@ -76,7 +76,7 @@
                                     <td style="padding:0 35px;">
 
                                         <h1
-                                            style="color:#ee3e38; font-weight:500; margin:0px 0px 30px 0px ;font-size:22px;font-family:'Rubik',sans-serif;">
+                                            style="color:#1a1a1a; font-weight:500; margin:0px 0px 30px 0px ;font-size:22px;font-family:'Rubik',sans-serif;">
                                             Reset Password Request
                                         </h1>
                                         <p
@@ -93,7 +93,7 @@
                                                 <td bgcolor="#ef3e39" class="nomob"
                                                     style="border-top-left-radius: 8px; border-bottom-left-radius: 8px;"
                                                     width="8"></td>
-                                                <td align="center" bgcolor="#ef3e39" class="wrapto100pc gmailbutton"
+                                                <td align="center" bgcolor="#ffaf32" class="wrapto100pc gmailbutton"
                                                     style="font-size: 16px; line-height:20px; font-family:'Rubik',sans-serif; color: #ffffff; text-decoration: none; vertical-align: middle; height:44px; border-radius: 8px;">
                                                     <a href="http://www.actionrocket.co/"
                                                         style="font-size: 16px; line-height:20px; font-family: inherit, arial, sans-serif; color: #ffffff; text-decoration: none; text-transform: uppercase; vertical-align: middle; letter-spacing: 1px; padding: 10px 30px; border: 1px solid #ef3e39; border-radius: 8px; display: block;"
