@@ -21,8 +21,8 @@
     <!--  Non-Essential, But Recommended -->
     <meta property="og:description"
         content="There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs.">
-    <meta property="og:site_name" content="IG Global Limited.">
-    <meta name="twitter:image:alt" content="IG Global Limited.">
+    <meta property="og:site_name" content="Al-Tabbaa & Hackett Capital">
+    <meta name="twitter:image:alt" content="Al-Tabbaa & Hackett Capital">
 
     <!--  Non-Essential, But Required for Analytics -->
     <meta name="twitter:site" content="@IGGlobalSavings">
