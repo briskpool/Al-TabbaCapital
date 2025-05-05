@@ -48,13 +48,13 @@
                                 <tr>
                                     <td style="padding:0 35px;">
                                         <h1
-                                            style="color:#ee3e38; font-weight:500; margin:0;font-size:26px;font-family:'Rubik',sans-serif;">
+                                            style="color:#1a1a1a; font-weight:500; margin:0;font-size:26px;font-family:'Rubik',sans-serif;">
                                             * New Registration Request
                                         </h1>
                                         <p style="font-size:15px; color:#455056; margin:8px 0 0; line-height:24px;">
                                             Received from Register Form</p>
                                         <span
-                                            style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #ee3e38; width:100px;"></span>
+                                            style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #ffaf32; width:100px;"></span>
                                         <p
                                             style="color:#455056; font-size:18px;line-height:20px; margin:0; font-weight: 500; text-align:left;">
                                             <strong
