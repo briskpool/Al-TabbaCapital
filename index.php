@@ -369,10 +369,10 @@
                                     2% Guaranteed
                                 </td>
                                 <td>
-                                    6%
+                                    2%-4%
                                 </td>
                                 <td>
-                                    6%+
+                                    6%
                                 </td>
                             </tr>
                             <tr>
