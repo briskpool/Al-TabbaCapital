@@ -3,7 +3,7 @@
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <title>IG GLobal</title>
+    <title>Registration Request</title>
     <meta name="description" content="New Account Email Template.">
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&amp;family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,800&amp;display=swap" rel="stylesheet">
     <style type="text/css">
@@ -11,7 +11,7 @@
         text-decoration: none !important;
     }
     a:link{
-        color:#ed3d39;
+        color:#ffaf32;
     }
     </style>
 </head>
@@ -29,8 +29,8 @@
                     </tr>
                     <tr>
                         <td style="text-align:center;">
-                            <a href="http://igglobalandsavings.com" title="logo" target="_blank">
-                                <img width="40" src="http://igglobalandsavings.com/templates/email-logo.png" title="logo"
+                            <a href="https://al-tabbaahackettcapital.com/" title="logo" target="_blank">
+                                <img width="100" src="https://al-tabbaahackettcapital.com//templates/email-logo.png" title="logo"
                                     alt="logo">
                             </a>
                         </td>
