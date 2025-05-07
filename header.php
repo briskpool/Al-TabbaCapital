@@ -14,7 +14,7 @@
     <meta property="og:title" content="Al-Tabbaa & Hackett Capital">
     <meta property="og:type"
         content="There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs." />
-    <meta property="og:image" content="http://al-tabbaahackettcapital.com//images/website-preview">
+    <meta property="og:image" content="http://al-tabbaahackettcapital.com//images/website-preview.png">
     <meta property="og:url" content="http://al-tabbaahackettcapital.com/index.php">
     <meta name="twitter:card" content="summary_large_image">
 
