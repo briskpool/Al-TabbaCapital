@@ -14,8 +14,8 @@
     <meta property="og:title" content="Al-Tabbaa & Hackett Capital">
     <meta property="og:type"
         content="There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs." />
-    <meta property="og:image" content="https://igglobalsavings.com/images/IG-Global.png">
-    <meta property="og:url" content="https://igglobalsavings.com/index.php">
+    <meta property="og:image" content="http://al-tabbaahackettcapital.com//images/website-preview">
+    <meta property="og:url" content="http://al-tabbaahackettcapital.com/index.php">
     <meta name="twitter:card" content="summary_large_image">
 
     <!--  Non-Essential, But Recommended -->
@@ -23,9 +23,6 @@
         content="There are many ways to invest your money, and at Al-Tabbaa & Hackett Capital we offer a wide range of options to suit your needs.">
     <meta property="og:site_name" content="Al-Tabbaa & Hackett Capital">
     <meta name="twitter:image:alt" content="Al-Tabbaa & Hackett Capital">
-
-    <!--  Non-Essential, But Required for Analytics -->
-    <meta name="twitter:site" content="@IGGlobalSavings">
 
     <link rel="icon" href="images/icons/favicon.png" type="image/png">
 
@@ -41,6 +38,16 @@
 
     <link href="css/style.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/animate.css">
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHVWYH8NF3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BHVWYH8NF3');
+</script>
 
 </head>
 
