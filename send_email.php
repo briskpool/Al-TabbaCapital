@@ -7,8 +7,7 @@ use PHPMailer\PHPMailer\Exception;
 $mail_host="localhost";
 $from_name="Al-Tabbaa & Hackett Capital";
 $from_email="info@al-tabbaahackettcapital.com";
-//$to_email="info@al-tabbaahackettcapital.com";
-$to_email="muzammil.mykhan@gmail.com";
+$to_email="info@al-tabbaahackettcapital.com";
 
 
 if (!empty($_POST['g_recaptcha_response'])) {
