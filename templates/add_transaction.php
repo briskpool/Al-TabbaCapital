@@ -47,13 +47,13 @@
     </style>
 </head>
 
-<body marginheight="0" topmargin="0" marginwidth="0" style="margin: 0px; background-color: #f2f3f8;" leftmargin="0">
+<body marginheight="0" topmargin="0" marginwidth="0" style="margin: 0px; background-color: #FAF3E7;" leftmargin="0">
     <!-- 100% body table -->
-    <table cellspacing="0" border="0" cellpadding="0" width="100%" bgcolor="#f2f3f8"
+    <table cellspacing="0" border="0" cellpadding="0" width="100%" bgcolor="#FAF3E7"
         style="@import url(https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&amp;family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,800&amp;display=swap); font-family: 'Nunito Sans', sans-serif;">
         <tr>
             <td>
-                <table style="background-color: #f2f3f8; max-width:650px; margin:0 auto;" width="100%" border="0"
+                <table style="background-color: #FAF3E7; max-width:650px; margin:0 auto;" width="100%" border="0"
                     align="center" cellpadding="0" cellspacing="0">
                     <tr>
                         <td style="height:20px;">&nbsp;</td>
