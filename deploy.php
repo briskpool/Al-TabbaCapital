@@ -1,6 +1,6 @@
 <?php
 // Change to your repo directory
-chdir('/home/l2apyc1bq78e/public_html/test');
+chdir('/home/l2apyc1bq78e/public_html');
 
 // Pull the latest code from GitHub
 $output = [];
