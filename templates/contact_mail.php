@@ -43,7 +43,7 @@
                             <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0"
                                 style="max-width:670px; background:#fff; border-radius:3px; text-align:center;-webkit-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);">
                                 <tr>
-                                    <td style="height:40px;">&nbsp;</td>
+                                    <td style="height:170px;">&nbsp;</td>
                                 </tr>
                                 <tr>
                                     <td style="padding:0 35px;">
