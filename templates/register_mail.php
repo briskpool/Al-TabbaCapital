@@ -30,7 +30,7 @@
                     <tr>
                         <td style="text-align:center;">
                             <a href="https://al-tabbaahackettcapital.com/" title="logo" target="_blank">
-                                <img width="100" src="https://al-tabbaahackettcapital.com//templates/email-logo.png" title="logo"
+                                <img width="170px" src="https://al-tabbaahackettcapital.com//templates/email-logo.png" title="logo"
                                     alt="logo">
                             </a>
                         </td>
