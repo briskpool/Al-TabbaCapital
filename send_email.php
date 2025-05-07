@@ -5,11 +5,9 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 $mail_host="localhost";
-// $user_name="info@al-tabbaahackettcapital.com";
-// $mail_pass="***";
 $from_name="Al-Tabbaa & Hackett Capital";
 $from_email="info@al-tabbaahackettcapital.com";
-//$to_email="igglobalsavings@protonmail.com";
+//$to_email="info@al-tabbaahackettcapital.com";
 $to_email="muzammil.mykhan@gmail.com";
 
 
@@ -114,7 +112,7 @@ if (!empty($_POST['g_recaptcha_response'])) {
 
       $mail->isHTML(true);
 
-      $mail->Subject = "IG Global - Registration Request";
+      $mail->Subject = "Registration Request";
 
       $mailContent = file_get_contents('templates/register_mail.php');
       $mailContent = str_replace('{{f_name}}',  $f_name, $mailContent);

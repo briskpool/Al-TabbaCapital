@@ -63,7 +63,7 @@
 				<div class = "col-12 text-center">
 					<h2>Why choose us?</h2>
 					<p>
-						Why would you choose IG Global? Well here are 6 of the best reasons.
+						Why would you choose Al-Tabbaa & Hackett Capital? Well here are 6 of the best reasons.
 					</p>
 				</div>
 			</div>
