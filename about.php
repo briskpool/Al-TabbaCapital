@@ -123,7 +123,7 @@
 							Guaranteed interest
 						</div>
 						<p>
-							Unlike a lot of investments we can actually guarantee the interest on our Instant Access Fund. No need to worry!
+							Unlike a lot of investments we can actually guarantee the interest on our Easy Access Fund.
 						</p>
 					</div>
 				</div>
