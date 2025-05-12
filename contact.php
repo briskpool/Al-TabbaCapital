@@ -30,7 +30,7 @@
                             </div>
                             <div class="detail">
                                 <p><strong>Give us a call</strong></p>
-                                <p><b>UK -</b> 0800 7022 525 <br> <b>TR -</b> +90 212 373 9476</p>
+                                <p><b>UK -</b> 0203 807 1460 <br></p>
                             </div>
                         </div>
                     </div>
@@ -52,10 +52,7 @@
                             </div>
                             <div class="detail">
                                 <p><strong>Address</strong></p>
-                                <p>71 Shelton St
-                                    Covent Garden
-                                    London
-                                    WC2H 9JQ</p>
+                                <p>Sheikh Zayed Rd - Dubai - United Arab Emirates</p>
                             </div>
                         </div>
                     </div>
@@ -68,7 +65,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
-                    <h2 class="text-center text-md-start">For general queries</h2>
+                    <h2 class="text-center text-md-start">For General Enquiries</h2>
                     <p class="text-center text-md-start">Connect with us by filling the form below.</p>
                     <div class="contact-form">
                         <form>
