@@ -83,18 +83,6 @@ section.footer li {
                     </nav>
                 </div>
 
-                <div class="col-12 mb-3 mb-lg-0 d-block d-md-none">
-                    <ul class="nav me-auto list-top pt-4 ">
-                        <li class="nav-item d-flex justify-content-center text-center">
-                            <a href="https://www.asktraders.com/trading-community" target="_blank" style=" 
-								background: white;
-								color: #29294f;
-								padding: 14px 20px;
-								border-radius: 10px;">Join Our Community</a>
-                        </li>
-                    </ul>
-                </div>
-
                 <div class="col-lg-4 d-none d-md-block">
                     <ul class="nav social-nav">
 <!--                         <li class="nav-item">
