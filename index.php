@@ -149,7 +149,7 @@
                         <h3>Choose A Goal</h3>
                         <p>
                             Take a look at our user-friendly calculators online or on our mobile app and see which
-                            savings goal works best for you
+                            savings goal works best for you.
                         </p>
                     </div>
                 </div>
