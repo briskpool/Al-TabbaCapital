@@ -52,7 +52,7 @@
                             </div>
                             <div class="detail">
                                 <p><strong>Address</strong></p>
-                                <p>Sheikh Zayed Rd - Dubai - United Arab Emirates</p>
+                                <p>London - Dubai</p>
                             </div>
                         </div>
                     </div>
