@@ -183,7 +183,7 @@ section.footer li {
                     <!-- End TrustBox widget -->
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
-                    Copyright © Al-Tabbaa & Hackett Capital <?php echo date('Y'); ?>.
+                    Copyright © Al-Tabbaa & Hackett Capital 2019.
                 </div>
             </div>
         </div>
