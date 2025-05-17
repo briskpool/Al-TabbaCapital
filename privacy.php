@@ -31,7 +31,7 @@
 				<div class = "col-12">
 
                     <p>
-                        Thank you for choosing to be part of our community at Al-Tabbaa & Hackett Capital, doing business as igi ("igi," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at <a href="mailto:info@al-tabbaahackettcapital.com">info@al-tabbaahackettcapital.com</a>.
+                        Thank you for choosing to be part of our community at Al-Tabbaa & Hackett Capital, doing business as Al-Tabbaa & Hackett Capital("Al-Tabbaa & Hackett Capital," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at <a href="mailto:info@al-tabbaahackettcapital.com">info@al-tabbaahackettcapital.com</a>.
                     </p>
 
                     <p>
