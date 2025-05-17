@@ -463,7 +463,7 @@
                     <h3>12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</h3>
 
                     <p>
-                        If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Reece Atherton, by email at info@al-tabbaahackettcapital.com, by phone at 0800 7022 525, or by post to:
+                        If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Tom McQuillan, by email at info@al-tabbaahackettcapital.com, by phone at 0203 807 1460, or by post to:
                         <br/><br/>
                         Al-Tabbaa & Hackett Capital
                         
