@@ -31,8 +31,7 @@
           <a class="nav-link <?php if($currentPage =='register'){echo 'active';}?>" href="register.php">Register</a>
         </li>
       </ul>
-	  <a href = "https://portal.al-tabbaahackettcapital.com" class = "btn btn-primary-red"> Client Portal 
-	  </a>
+	  <a href = "https://portal.al-tabbaahackettcapital.com" class = "btn btn-primary-red"> Log In </a>
     </div>
   </div>
 </nav>
