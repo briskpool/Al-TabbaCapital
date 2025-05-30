@@ -66,7 +66,7 @@
                                     <div class="box-details">
                                         <h3>Easy Access</h3>
                                         <p>If your savings are not meeting your needs, we offer a guaranteed 2% return
-                                            per month.</p>
+                                            per annum.</p>
                                     </div>
                                 </li>
                             </ul>
