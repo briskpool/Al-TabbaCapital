@@ -125,6 +125,26 @@ section.footer li {
     </div>
     <div class="footer-center">
         <div class="container ">
+
+        <div class="row">
+                <div class="col-12">
+                    <h4 class="py-3 d-flex justify-content-center">
+                        Mobile Apps Coming Soon!
+                    </h4>
+                </div>
+                <div class="col-12 list-img">
+                    <a href="#" target="_blank" style="pointer-events: none;">
+                        <li class="pb-2 ps-md-2">
+                            <img src="images/icons/playstore.svg" style="width:183px; height:50px">
+                        </li>
+                    </a>
+                    <a href="#" target="_blank" style="pointer-events: none;">
+                        <li class="ps-0 ps-md-2">
+                            <img src="images/icons/appstore.svg" style="width:183px; height:50px">
+                        </li>
+                    </a>
+                </div>
+            </div>
             <div class="row pt-3">
                 <div class="col-12">
                     <p>
@@ -177,7 +197,7 @@ section.footer li {
                     <!-- <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad"
                         data-businessunit-id="64067ecdbbc40d2fadc8f8b3" data-style-height="24px" data-style-width="100%"
                         data-theme="dark" data-min-review-count="10" data-style-alignment="center">
-                        <a href="https://www.trustpilot.com/review/igglobalandsavings.com" target="_blank"
+                        <a href="https://www.trustpilot.com/review/al-tabbaahackettcapital.com" target="_blank"
                             rel="noopener">Trustpilot</a>
                     </div> -->
                     <!-- End TrustBox widget -->
