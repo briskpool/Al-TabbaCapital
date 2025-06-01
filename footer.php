@@ -127,11 +127,6 @@ section.footer li {
         <div class="container ">
 
         <div class="row">
-                <div class="col-12">
-                    <h4 class="py-3 d-flex justify-content-center">
-                        Mobile Apps Coming Soon!
-                    </h4>
-                </div>
                 <div class="col-12 list-img">
                     <a href="#" target="_blank" style="pointer-events: none;">
                         <li class="pb-2 ps-md-2">

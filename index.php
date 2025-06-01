@@ -9,7 +9,6 @@
 
 <!-- /Navbar -->
 
-
 <!-- Main Content -->
 
 <section class="main-content" data-bs-spy="scroll" data-bs-target="#main-navbar" data-bs-smooth-scroll="true"
@@ -25,12 +24,22 @@
                     <div class="banner-content">
                         <h1>Make Your <span>Money</span> Work For You</h1>
                         <p>
-                            Looking to move your ISA or expand your portfolio? Al-Tabbaa & Hackett Capital makes investing and
+                            Looking to move your ISA or expand your portfolio? Al-Tabbaa & Hackett Capital makes
+                            investing and
                             account management easy with expert support and online tools.
                         </p>
-                        <a href = "register.php" class = "btn btn-secondary-navy">
+                        <!-- <a href = "register.php" class = "btn btn-secondary-navy">
 							Lets find whats right for you
-						</a>
+						</a> -->
+                        <div class="col-12 d-flex">
+                            <a href="" target="_blank" style="pointer-events: none;" class="text-decoration-none">
+                                <img src="images/icons/playstore.svg" style="height:60px; width:180px;">
+                            </a>
+
+                            <a href="" target="_blank" style="pointer-events: none;" class="ps-2 text-decoration-none">
+                                <img src="images/icons/appstore.svg" style="height:60px; width:180px;">
+                            </a>
+                        </div>
                     </div>
                     <div class="banner-img">
                         <img src="images/backgrounds/banner-img.png" alt="img" />
@@ -54,7 +63,7 @@
                 </div>
             </div>
             <div class="row align-items-center wf-row justify-content-between">
-                
+
                 <div class="col-md-7 col-xxl-6">
                     <div class="ways-features">
                         <div class="ways-box">
@@ -79,7 +88,8 @@
                                 <li class="nav-item">
                                     <div class="box-details">
                                         <h3>Guaranteed Growth</h3>
-                                        <p>This will offer you between 2%-4% per annum depending on your level of investment.</p>
+                                        <p>This will offer you between 2%-4% per annum depending on your level of
+                                            investment.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -113,7 +123,8 @@
                             <img class="w-100" src="images/content-img/Maskgroup.jpeg" alt="img" />
                         </p>
                         <p>
-                            At Al-Tabbaa & Hackett Capital we want to make investing easy and profitable for our clients. We
+                            At Al-Tabbaa & Hackett Capital we want to make investing easy and profitable for our
+                            clients. We
                             offer a range of investment options so that you can find the right one for you.
                         </p>
                         <a href="register.php" class="btn btn-primary-red">
@@ -135,7 +146,8 @@
                 <div class="col-12 mb-3 mb-lg-5 text-center">
                     <h2>Saving Made Easy</h2>
                     <p>
-                        Investing can seem complicated and overwhelming, but at Al-Tabbaa & Hackett Capital, we believe it
+                        Investing can seem complicated and overwhelming, but at Al-Tabbaa & Hackett Capital, we believe
+                        it
                         should be easy and straightforward. That's why we've created a three step process for our
                         Easy Access Fund to make it simple for you to get saving.
                     </p>
@@ -186,7 +198,8 @@
                 <div class="col-lg-10 col-xxl-9 text-center">
                     <h2>FAQs</h2>
                     <p>
-                        Find answers to some of the most commonly asked questions about Al-Tabbaa & Hackett Capital. If you
+                        Find answers to some of the most commonly asked questions about Al-Tabbaa & Hackett Capital. If
+                        you
                         can't find what you are looking for, please do not hesitate to get in touch with our team. We
                         will be happy to help you.
                     </p>
@@ -202,9 +215,11 @@
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body text-start">
-                                        There is no risk involved in the Easy Access Fund as Al-Tabbaa & Hackett Capital protect the
+                                        There is no risk involved in the Easy Access Fund as Al-Tabbaa & Hackett Capital
+                                        protect the
                                         capital for their investors.<br><br>
-                                        The Guaranteed Growth and Guaranteed Income Fund accounts both carry a risk of just
+                                        The Guaranteed Growth and Guaranteed Income Fund accounts both carry a risk of
+                                        just
                                         2.5% profile as you would expect from an investment returning 2% to 4% per
                                         annum.
                                     </div>
@@ -225,7 +240,8 @@
                                             <li>Bank Transfer</li>
                                             <li>Direct Debit</li>
                                         </ul>
-                                        The Guaranteed Growth and Guaranteed Income Fund support all the above methods and
+                                        The Guaranteed Growth and Guaranteed Income Fund support all the above methods
+                                        and
                                         also allow direct deposits from multiple cryptocurrencies.
                                     </div>
                                 </div>
@@ -244,7 +260,8 @@
                                         Our Easy Access accounts are flexible which means you can deposit and
                                         withdraw all, or a portion of your capital at any time.<br><br>
                                         The Guaranteed Growth/Guaranteed Income is a minimum fixed term of 18-36 months
-                                        and does not carry flexibility on withdrawal due to the returns on offer at Al-Tabbaa & Hackett Capital.
+                                        and does not carry flexibility on withdrawal due to the returns on offer at
+                                        Al-Tabbaa & Hackett Capital.
                                     </div>
                                 </div>
                             </div>
