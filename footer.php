@@ -8,11 +8,6 @@ section.footer li {
     list-style: none;
 }
 
-.download-app {
-    border-bottom: 1px solid #3C3C64;
-
-}
-
 .list-img {
     flex-direction: row;
     flex-wrap: wrap;

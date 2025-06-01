@@ -33,11 +33,11 @@
 						</a> -->
                         <div class="col-12 d-flex">
                             <a href="" target="_blank" style="pointer-events: none;" class="text-decoration-none">
-                                <img src="images/icons/playstore.svg" style="height:60px; width:180px;">
+                                <img src="images/icons/playstore.svg" style="height:60px; width:100%;">
                             </a>
 
                             <a href="" target="_blank" style="pointer-events: none;" class="ps-2 text-decoration-none">
-                                <img src="images/icons/appstore.svg" style="height:60px; width:180px;">
+                                <img src="images/icons/appstore.svg" style="height:60px; width:100%;">
                             </a>
                         </div>
                     </div>
