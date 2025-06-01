@@ -79,8 +79,7 @@
                                 <li class="nav-item">
                                     <div class="box-details">
                                         <h3>Guaranteed Growth</h3>
-                                        <p>For the startup trader we offer a trade platform that enables you to manage
-                                            your own brokerage account.</p>
+                                        <p>This will offer you between 2%-4% per annum depending on your level of investment.</p>
                                     </div>
                                 </li>
                             </ul>
