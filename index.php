@@ -220,7 +220,7 @@
                                         capital for their investors.<br><br>
                                         The Guaranteed Growth and Guaranteed Income Fund accounts both carry a risk of
                                         just
-                                        2.5% profile as you would expect from an investment returning 2% to 4% per
+                                        2.5% profile as you would expect from an investment returning 6% per
                                         annum.
                                     </div>
                                 </div>
