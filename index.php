@@ -259,9 +259,8 @@
                                     <div class="accordion-body text-start">
                                         Our Easy Access accounts are flexible which means you can deposit and
                                         withdraw all, or a portion of your capital at any time.<br><br>
-                                        The Guaranteed Growth/Guaranteed Income is a minimum fixed term of 18-36 months
-                                        and does not carry flexibility on withdrawal due to the returns on offer at
-                                        Al-Tabbaa & Hackett Capital.
+                                        The Guaranteed Growth/Guaranteed Income is a minimum term of 30 days on
+                                        withdrawal due to the returns on offer at Al-Tabbaa & Hackett Capital.
                                     </div>
                                 </div>
                             </div>
