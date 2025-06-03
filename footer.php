@@ -33,7 +33,7 @@ section.footer li {
 
                 <div class="col-lg-4 d-md-none">
                     <ul class="nav social-nav">
-<!--                         <li class="nav-item">
+                        <!--                         <li class="nav-item">
                             <a href="#" target="_blank">
                                 <img src="images/icons/Layer.svg" alt="layers" />
                             </a>
@@ -80,7 +80,7 @@ section.footer li {
 
                 <div class="col-lg-4 d-none d-md-block">
                     <ul class="nav social-nav">
-<!--                         <li class="nav-item">
+                        <!--                         <li class="nav-item">
                             <a href="#" target="_blank">
                                 <img src="images/icons/Layer.svg" alt="layers" />
                             </a>
@@ -111,7 +111,7 @@ section.footer li {
 
             <div class="col-md-4 text-center d-lg-none mt-4">
                 <!-- TrustBox widget - Micro Review Count -->
-                
+
                 <!-- End TrustBox widget -->
             </div>
 
@@ -121,7 +121,7 @@ section.footer li {
     <div class="footer-center">
         <div class="container ">
 
-        <div class="row">
+            <div class="row">
                 <div class="col-12 list-img">
                     <a href="#" target="_blank" style="pointer-events: none;">
                         <li class="pb-2 ps-md-2">
@@ -157,12 +157,26 @@ section.footer li {
                     </p>
 
                     <p>
-                        Al-Tabbaa & Hackett Capital is not authorised and regulated by the FCA and we do not give investment
+                        Al-Tabbaa & Hackett Capital is not authorised and regulated by the FCA and we do not give
+                        investment
                         advice, you should contact a regulated investment professional if you require investment advice.
                     </p>
 
                 </div>
             </div>
+
+            <div class="d-flex justify-content-center grid order-3 grid-cols-4 gap-2 lg:order-2 lg:gap-6"><img alt="g2 users love us badge"
+                    loading="lazy" width="80" height="105" decoding="async" data-nimg="1"
+                    src="images/content-img/users-love-us.svg" style="color: transparent;"><img
+                    alt="review management momentum leader badge" loading="lazy" width="80" height="104"
+                    decoding="async" data-nimg="1" src="images/content-img/momentumleader_leader.svg"
+                    style="color: transparent;"><img alt="review management high performer small business badge"
+                    loading="lazy" width="80" height="104" decoding="async" data-nimg="1"
+                    src="images/content-img/highperformer.svg"
+                    style="color: transparent;">
+            </div>
+
+
         </div>
     </div>
     <div class="footer-bottom">
