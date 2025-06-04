@@ -165,15 +165,14 @@ section.footer li {
                 </div>
             </div>
 
-            <div class="d-flex justify-content-center grid order-3 grid-cols-4 gap-2 lg:order-2 lg:gap-6"><img alt="g2 users love us badge"
-                    loading="lazy" width="80" height="105" decoding="async" data-nimg="1"
+            <div class="d-flex justify-content-center grid order-3 grid-cols-4 gap-2 lg:order-2 lg:gap-6"><img
+                    alt="g2 users love us badge" loading="lazy" width="80" height="105" decoding="async" data-nimg="1"
                     src="images/content-img/users-love-us.svg" style="color: transparent;"><img
                     alt="review management momentum leader badge" loading="lazy" width="80" height="104"
                     decoding="async" data-nimg="1" src="images/content-img/momentumleader_leader.svg"
                     style="color: transparent;"><img alt="review management high performer small business badge"
                     loading="lazy" width="80" height="104" decoding="async" data-nimg="1"
-                    src="images/content-img/highperformer.svg"
-                    style="color: transparent;">
+                    src="images/content-img/highperformer.svg" style="color: transparent;">
             </div>
 
 
@@ -196,14 +195,14 @@ section.footer li {
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-4 text-center mb-3 mb-md-0 d-none d-lg-block">
-                    <!-- TrustBox widget - Micro Review Count -->
-                    <!-- <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad"
-                        data-businessunit-id="64067ecdbbc40d2fadc8f8b3" data-style-height="24px" data-style-width="100%"
-                        data-theme="dark" data-min-review-count="10" data-style-alignment="center">
-                        <a href="https://www.trustpilot.com/review/al-tabbaahackettcapital.com" target="_blank"
+                <div class="col-md-4 text-center mb-3 mb-md-0 d-lg-block">
+                    <!-- TrustBox widget - Review Collector -->
+                    <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
+                        data-businessunit-id="6827762643a58c4ab5235432" data-style-height="52px"
+                        data-style-width="100%" data-theme="dark">
+                        <a href="https://uk.trustpilot.com/review/al-tabbaahackettcapital.com" target="_blank"
                             rel="noopener">Trustpilot</a>
-                    </div> -->
+                    </div>
                     <!-- End TrustBox widget -->
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
