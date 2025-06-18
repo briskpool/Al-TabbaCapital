@@ -376,7 +376,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>Annual Interest <i class="bi bi-info-circle-fill" data-bs-toggle="tooltip"
+                                <td>Monthly Interest <i class="bi bi-info-circle-fill" data-bs-toggle="tooltip"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="Depending on your risk appetite and your investment level or interest can range from a guaranteed 2% to a possible 6% and potentially higher"></i>
                                 </td>
