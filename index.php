@@ -75,7 +75,7 @@
                                     <div class="box-details">
                                         <h3>Easy Access</h3>
                                         <p>If your savings are not meeting your needs, we offer a guaranteed 2% return
-                                            per annum.</p>
+                                            per month.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -88,7 +88,7 @@
                                 <li class="nav-item">
                                     <div class="box-details">
                                         <h3>Guaranteed Growth</h3>
-                                        <p>This will offer you between 2%-4% per annum depending on your level of
+                                        <p>This will offer you between 2%-4% per month depending on your level of
                                             investment.</p>
                                     </div>
                                 </li>
