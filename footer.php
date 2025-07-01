@@ -138,7 +138,7 @@ section.footer li {
             <div class="row pt-3">
                 <div class="col-12">
                     <p>
-                        Al-Tabbaa & Hackett Capital is a trading style which is registered in England & Wales.
+                        Al-Tabbaa & Hackett Capital is a trading style which is registered in U.A.E.
                     </p>
 
                     <p>
