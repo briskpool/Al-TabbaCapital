@@ -52,7 +52,7 @@
                             </div>
                             <div class="detail">
                                 <p><strong>Address</strong></p>
-                                <p>London - Dubai</p>
+                                <p>Emaar Business Park, Dubai, U.A.E</p>
                             </div>
                         </div>
                     </div>
