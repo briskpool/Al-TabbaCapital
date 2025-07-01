@@ -468,9 +468,11 @@
                         Al-Tabbaa & Hackett Capital
                         
              <br/>
-                        71-76 Shelton Street
+                        Emaar Business Park
                         <br/>
-                        WC2H 9JQ, London, UK
+                        Dubai
+<br/>
+U.A.E
                         
                     </p>
 
